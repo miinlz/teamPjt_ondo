@@ -1,4 +1,4 @@
-<p align="center">
+  <p align="center">
   <a href="#jp">
     <img src="https://img.shields.io/badge/日本語-Japanese-blue?style=for-the-badge&logoColor=white" height="30">
   </a>
@@ -54,11 +54,11 @@
 
 ### 🏆 主な機能
 <div align="center">
-  <span style="display:inline-block; margin:10px; padding:15px 20px; border-radius:15px; background:#f0f0f0; font-size:16px;">🔍 カテゴリ検索</span>
-  <span style="display:inline-block; margin:10px; padding:15px 20px; border-radius:15px; background:#f0f0f0; font-size:16px;">💌 チャットリクエスト</span>
-  <span style="display:inline-block; margin:10px; padding:15px 20px; border-radius:15px; background:#f0f0f0; font-size:16px;">✅ チャットリクエスト承認/拒否</span>
-  <span style="display:inline-block; margin:10px; padding:15px 20px; border-radius:15px; background:#f0f0f0; font-size:16px;">💬 リアルタイムメッセージ送受信</span>
-  <span style="display:inline-block; margin:10px; padding:15px 20px; border-radius:15px; background:#f0f0f0; font-size:16px;">📄 会話履歴管理</span>
+  <span style="display:inline-block; margin:10px; padding:15px 20px; border-radius:15px; background:#f0f0f0; font-size:16px;">🔍 カテゴリ検索</span><br>
+  <span style="display:inline-block; margin:10px; padding:15px 20px; border-radius:15px; background:#f0f0f0; font-size:16px;">💌 チャットリクエスト</span><br>
+  <span style="display:inline-block; margin:10px; padding:15px 20px; border-radius:15px; background:#f0f0f0; font-size:16px;">✅ チャットリクエスト承認/拒否</span><br>
+  <span style="display:inline-block; margin:10px; padding:15px 20px; border-radius:15px; background:#f0f0f0; font-size:16px;">💬 リアルタイムメッセージ送受信</span><br>
+  <span style="display:inline-block; margin:10px; padding:15px 20px; border-radius:15px; background:#f0f0f0; font-size:16px;">📄 会話履歴管理</span><br>
 </div>
 
 ---
@@ -107,34 +107,34 @@
     <tr>
       <td align="center">
         <img src="https://avatars.githubusercontent.com/SangChul1" width="100"><br>
-        <strong>パクサンチョル</strong><br>Backend<br>チームリーダー / 会員管理 / 言語切替<br>
+        <strong>パク·サンチョル</strong><br>Backend<br>チームリーダー / 会員管理 / 言語切替<br>
         <a href="https://github.com/SangChul1">GitHub</a>
       </td>
       <td align="center">
         <img src="https://avatars.githubusercontent.com/minTann718" width="100"><br>
-        <strong>ノヘミン</strong><br>Fullstack<br>メッセージリクエストリスト & チャット管理<br>
+        <strong>ノ·ヘミン</strong><br>Fullstack<br>メッセージリクエストリスト & チャット管理<br>
         <a href="https://github.com/minTann718">GitHub</a>
       </td>
       <td align="center">
         <img src="https://avatars.githubusercontent.com/pwj0421" width="100"><br>
-        <strong>박원준</strong><br>PM<br>全体管理<br>
+        <strong>パク·ウォンジュン</strong><br>PM<br>全体管理<br>
         <a href="https://github.com/pwj0421">GitHub</a>
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="https://avatars.githubusercontent.com/jy061333-ui" width="100"><br>
-        <strong>허준영</strong><br>Backend<br>マッチング、カテゴリ編集<br>
+        <strong>ホ·ジュンヨン</strong><br>Backend<br>マッチング、カテゴリ編集<br>
         <a href="https://github.com/jy061333-ui">GitHub</a>
       </td>
       <td align="center">
         <img src="https://avatars.githubusercontent.com/miinlz" width="100"><br>
-        <strong>지수민</strong><br>Backend<br>お知らせ掲示板<br>
+        <strong>チ·スミン</strong><br>Backend<br>お知らせ掲示板<br>
         <a href="https://github.com/miinlz">GitHub</a>
       </td>
       <td align="center">
         <img src="https://avatars.githubusercontent.com/staythere88" width="100"><br>
-        <strong>서동인</strong><br>Backend<br>自由掲示板<br>
+        <strong>ソ·ドンイン</strong><br>Backend<br>自由掲示板<br>
         <a href="https://github.com/staythere88">GitHub</a>
       </td>
     </tr>
@@ -195,11 +195,11 @@
 
 ### 🏆 주요 기능
 <div align="center">
-  <span style="display:inline-block; margin:10px; padding:15px 20px; border-radius:15px; background:#f0f0f0; font-size:16px;">🔍 카테고리 검색</span>
-  <span style="display:inline-block; margin:10px; padding:15px 20px; border-radius:15px; background:#f0f0f0; font-size:16px;">💌 채팅 요청</span>
-  <span style="display:inline-block; margin:10px; padding:15px 20px; border-radius:15px; background:#f0f0f0; font-size:16px;">✅ 채팅 요청 수락/거절</span>
-  <span style="display:inline-block; margin:10px; padding:15px 20px; border-radius:15px; background:#f0f0f0; font-size:16px;">💬 실시간 메시지 송수신</span>
-  <span style="display:inline-block; margin:10px; padding:15px 20px; border-radius:15px; background:#f0f0f0; font-size:16px;">📄 대화 기록 관리</span>
+  <span style="display:inline-block; margin:10px; padding:15px 20px; border-radius:15px; background:#f0f0f0; font-size:16px;">🔍 카테고리 검색</span><br>
+  <span style="display:inline-block; margin:10px; padding:15px 20px; border-radius:15px; background:#f0f0f0; font-size:16px;">💌 채팅 요청</span><br>
+  <span style="display:inline-block; margin:10px; padding:15px 20px; border-radius:15px; background:#f0f0f0; font-size:16px;">✅ 채팅 요청 수락/거절</span><br>
+  <span style="display:inline-block; margin:10px; padding:15px 20px; border-radius:15px; background:#f0f0f0; font-size:16px;">💬 실시간 메시지 송수신</span><br>
+  <span style="display:inline-block; margin:10px; padding:15px 20px; border-radius:15px; background:#f0f0f0; font-size:16px;">📄 대화 기록 관리</span><br>
 </div>
 
 ---
