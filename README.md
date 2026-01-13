@@ -132,7 +132,7 @@
       </td>
       <td align="center">
         <img src="https://avatars.githubusercontent.com/miinlz" width="300"><br>
-        <strong>チ·スミン</strong><br>Backend<br>お知らせ掲示板<br>
+        <strong>ジ·スミン</strong><br>Backend<br>お知らせ掲示板<br>
         <a href="https://github.com/miinlz">GitHub</a>
       </td>
       <td align="center">
